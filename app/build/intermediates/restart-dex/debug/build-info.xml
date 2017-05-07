@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="19"
+    build-mode="FULL"
+    density="mdpi"
+    format="10"
+    plugin-version="2.3.1"
+    timestamp="1492529418883"
+    token="595554108549831540"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="9985" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="1549" />
+    <task
+        name="verifier"
+        duration="33" />
+
+    <artifact
+        location="/home/student8/Рабочий стол/MyGame6.7-master/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
+
+    <build
+        build-mode="FULL"
+        timestamp="1492529418883"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/home/student8/Рабочий стол/MyGame6.7-master/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

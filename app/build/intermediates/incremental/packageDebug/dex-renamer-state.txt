@@ -1,0 +1,4 @@
+#Tue Apr 18 20:21:50 MSK 2017
+base.0=/home/student8/Рабочий стол/MyGame6.7-master/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/home/student8/Рабочий стол/MyGame6.7-master/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

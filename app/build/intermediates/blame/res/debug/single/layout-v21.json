@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/student8/Рабочий стол/MyGame6.7-master/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/student8/.android/build-cache/6cce617e0a1ab8f0f962b437f59202f0c00e7faa/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/student8/Рабочий стол/MyGame6.7-master/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/student8/.android/build-cache/6cce617e0a1ab8f0f962b437f59202f0c00e7faa/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/student8/Рабочий стол/MyGame6.7-master/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/student8/.android/build-cache/6cce617e0a1ab8f0f962b437f59202f0c00e7faa/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/student8/Рабочий стол/MyGame6.7-master/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/student8/.android/build-cache/6cce617e0a1ab8f0f962b437f59202f0c00e7faa/output/res/layout-v21/notification_action_tombstone.xml"
+    }
+]

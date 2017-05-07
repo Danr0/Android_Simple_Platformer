@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.danro.mygame.MainActivity"
+    android:orientation="vertical">
+
+    <com.example.danro.mygame.Surface
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/surface"
+        android:layout_above="@+id/leftBut" />
+    <Button
+        android:text="Left"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/leftBut" />
+
+    <Button
+        android:text="Right"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/rightBut"
+        android:layout_alignParentBottom="true"
+        android:layout_toRightOf="@+id/leftBut"
+        android:layout_toEndOf="@+id/leftBut" />
+
+    <Button
+        android:text="up"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/surface"
+        android:layout_toLeftOf="@+id/leftBut"
+        android:layout_toStartOf="@+id/leftBut"
+        android:id="@+id/JumpBut" />
+
+    <Button
+        android:text="Down"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/surface"
+        android:layout_toLeftOf="@+id/JumpBut"
+        android:layout_toStartOf="@+id/JumpBut"
+        android:id="@+id/DownBut" />
+
+    <Button
+        android:text="Attack"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_toRightOf="@+id/rightBut"
+        android:layout_toEndOf="@+id/rightBut"
+        android:id="@+id/Abut" />
+
+
+</RelativeLayout>

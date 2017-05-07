@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/student8/.android/build-cache/822535a537c4db70d1697b05260e0bdeafff79e8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/home/student8/Рабочий стол/MyGame6.7-master/app/build/intermediates/pre-dexed/debug/classes_82779c321c0d804a894a83066c2eed27b58dd8ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/student8/.android/build-cache/822535a537c4db70d1697b05260e0bdeafff79e8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/home/student8/Рабочий стол/MyGame6.7-master/app/build/intermediates/pre-dexed/debug/classes_82779c321c0d804a894a83066c2eed27b58dd8ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/student8/.android/build-cache/c63ed1a5c08f047f8b0344f0c4caea31c99cb8b9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/home/student8/Рабочий стол/MyGame6.7-master/app/build/intermediates/pre-dexed/debug/classes_9da317a2e6b2a5bb45d655c33ba4e340e0327423.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/student8/.android/build-cache/827b472f7e6319fed9bcff773e81484f3194bff3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/home/student8/Рабочий стол/MyGame6.7-master/app/build/intermediates/pre-dexed/debug/classes_e629b4d7e5237992de845514476007588555964f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/student8/.android/build-cache/c63ed1a5c08f047f8b0344f0c4caea31c99cb8b9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/home/student8/Рабочий стол/MyGame6.7-master/app/build/intermediates/pre-dexed/debug/classes_9da317a2e6b2a5bb45d655c33ba4e340e0327423.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/student8/.android/build-cache/827b472f7e6319fed9bcff773e81484f3194bff3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/home/student8/Рабочий стол/MyGame6.7-master/app/build/intermediates/pre-dexed/debug/classes_e629b4d7e5237992de845514476007588555964f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/student8/.android/build-cache/6cce617e0a1ab8f0f962b437f59202f0c00e7faa/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/home/student8/Рабочий стол/MyGame6.7-master/app/build/intermediates/pre-dexed/debug/classes_c5ef576d963f0d5e501dd2c1f1ee6f3083147ac4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/student8/.android/build-cache/9d54b769ca67e8a73a85059b8db265e480f71b90/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/home/student8/Рабочий стол/MyGame6.7-master/app/build/intermediates/pre-dexed/debug/classes_fca6b1286ce22f33a19cc4baad59a3242fee8044.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/student8/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/home/student8/Рабочий стол/MyGame6.7-master/app/build/intermediates/pre-dexed/debug/support-annotations-25.1.0_bec435ee7a271610ec08ea1cb6fbd5e248aed51f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/student8/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/home/student8/Рабочий стол/MyGame6.7-master/app/build/intermediates/pre-dexed/debug/support-annotations-25.1.0_bec435ee7a271610ec08ea1cb6fbd5e248aed51f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/student8/.android/build-cache/2616a862cc1d46f1176af2f1fac788877dcd74ad/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/home/student8/Рабочий стол/MyGame6.7-master/app/build/intermediates/pre-dexed/debug/classes_90559dc80ea6d72ee3e0d976b515b3b339f3556d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/student8/.android/build-cache/9d54b769ca67e8a73a85059b8db265e480f71b90/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/home/student8/Рабочий стол/MyGame6.7-master/app/build/intermediates/pre-dexed/debug/classes_fca6b1286ce22f33a19cc4baad59a3242fee8044.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/student8/.android/build-cache/cc16020f0204322299740e9ea645e640669faea2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/home/student8/Рабочий стол/MyGame6.7-master/app/build/intermediates/pre-dexed/debug/classes_4d22aea557f3f9466e928a4ec88793eb5c5c1165.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/student8/.android/build-cache/6cce617e0a1ab8f0f962b437f59202f0c00e7faa/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/home/student8/Рабочий стол/MyGame6.7-master/app/build/intermediates/pre-dexed/debug/classes_c5ef576d963f0d5e501dd2c1f1ee6f3083147ac4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/student8/.android/build-cache/2616a862cc1d46f1176af2f1fac788877dcd74ad/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/home/student8/Рабочий стол/MyGame6.7-master/app/build/intermediates/pre-dexed/debug/classes_90559dc80ea6d72ee3e0d976b515b3b339f3556d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/student8/.android/build-cache/1dc977bba15dfd3808139f6efa57d429b4f195d4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/student8/Рабочий стол/MyGame6.7-master/app/build/intermediates/pre-dexed/debug/classes_be6214dca9ea8c67887d9aac055211da51317501.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/student8/.android/build-cache/4ee9f6606d48cb4aea8b3935e715b387afdb6d54/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/home/student8/Рабочий стол/MyGame6.7-master/app/build/intermediates/pre-dexed/debug/classes_485813a17964f65a17d1e07ec8c780a7752a4ef9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/student8/.android/build-cache/cc16020f0204322299740e9ea645e640669faea2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/home/student8/Рабочий стол/MyGame6.7-master/app/build/intermediates/pre-dexed/debug/classes_4d22aea557f3f9466e928a4ec88793eb5c5c1165.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/student8/.android/build-cache/4ee9f6606d48cb4aea8b3935e715b387afdb6d54/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/home/student8/Рабочий стол/MyGame6.7-master/app/build/intermediates/pre-dexed/debug/classes_485813a17964f65a17d1e07ec8c780a7752a4ef9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/student8/.android/build-cache/1dc977bba15dfd3808139f6efa57d429b4f195d4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/student8/Рабочий стол/MyGame6.7-master/app/build/intermediates/pre-dexed/debug/classes_be6214dca9ea8c67887d9aac055211da51317501.jar" />
+    </item>
+
+</items>
